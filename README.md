@@ -6,6 +6,10 @@ My repository for BYUI CSE110 class projects
 
 ## CSE 110 - Programming Building Blocks
 
+
+### Topics
+`byui` `cse111` `school` `fall` `school-project` `school-assignments` `school-education` `python3`
+
 ### 🎓 Academic Honesty
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).

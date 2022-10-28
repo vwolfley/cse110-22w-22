@@ -8,7 +8,7 @@ My repository for BYUI CSE110 class projects
 
 
 ### Topics
-`byui` `cse111` `school` `fall` `school-project` `school-assignments` `school-education` `python3`
+`byui` `cse110` `school` `spring` `school-project` `school-assignments` `school-education` `python3`
 
 ### 🎓 Academic Honesty
 
